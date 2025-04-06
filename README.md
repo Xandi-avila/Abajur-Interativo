@@ -27,7 +27,7 @@ Simples simulação de um abajur feito com Python e Tkinter. A cada clique no bo
 
 2. Acesse a pasta do projeto:
      ```bash
-   cd abajur4
+   cd abajur
 
 3. Execute o projeto
    ```bash
