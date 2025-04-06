@@ -11,7 +11,7 @@ Simples simulação de um abajur feito com Python e Tkinter. A cada clique no bo
 
 ## 🧠 Tecnologias usadas
 
-- Python 3
+- Python 
 - Tkinter (interface gráfica)
 - POO (Programação Orientada a Objetos)
 
